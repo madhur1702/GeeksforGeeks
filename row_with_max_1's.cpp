@@ -8,7 +8,7 @@ class Solution {
         {
             int total = 0;
             for(int j = 0;j<arr[i].size();j++)
-            { 
+            {
                 if(arr[i][j]==1)
                 {
                     total += 1;
