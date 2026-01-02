@@ -5,7 +5,7 @@ class Solution {
         int f = 0,m = 0,l = arr.size()-1;
         while(m<=l)
         {
-            if(arr[m]==1)
+            if(arr[m]==1) 
             {
                 m++;
             }else if(arr[m] == 0)
